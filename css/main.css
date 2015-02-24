@@ -1,0 +1,38 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 4, 2015, 9:08:04 AM
+    Author     : mtaggart
+*/
+
+body{
+    background-color: #C36D4B;
+    padding: 2vh 2vw;
+    margin: 0;
+}
+
+#app{
+    height: 92vh;
+    margin: 0;
+    /*border: solid 10px #C36D4B;*/
+    background-color: #66B4CC;
+    padding: 2%;
+    border-radius: 10px;
+}
+
+input, select, button{
+    background-color: #94DBBE;
+    color: white;
+    border: none;
+    font-weight: bold;
+    margin: 5px;
+    font-size: 1.5em;
+    padding: 2px 5px;
+}
+
+#button{
+    padding: 5px;
+}
